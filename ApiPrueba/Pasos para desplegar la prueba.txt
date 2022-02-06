@@ -1,0 +1,10 @@
+1. Instalar Jmeter: descargar e instalar apache Jmeter y el JDK de java cualquier version superios a la 8
+
+2.Extraer archivos del comprimido de Jmeter y luego entrar en la carpeta bin para posteriormente ejecutar el archivo Jmeter.bat
+
+3.Al abrir Jmeter e ir al menu superior seleccionar la opcion File y buscar donde diga Open,  posteriormente se debera buscar donde se tenga descargado el archivo ApiPruebas.jmx
+
+4.Al desplegar el test plan se debe configurar la variable de Registros, cambiando la ruta del archivo CSV por la ruta donde lo tengan descargado
+
+5.Correr la prueba
+
